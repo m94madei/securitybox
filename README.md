@@ -17,6 +17,7 @@ Password - klasa zawierajaca funkcje do tworzenia hasel
 Functions - zawiera przydatne funkcje uzywane w programie
 
 Application view
+
 ![Screenshot 2024-04-08 195907](https://github.com/m94madei/securitybox/assets/115645287/4d1e4d9f-8874-4044-9693-e3e7aa9a0b4e)
 ![Screenshot 2024-04-08 195930](https://github.com/m94madei/securitybox/assets/115645287/9e8e5e13-6323-426c-b33e-860cc0d6f7d7)
 ![Screenshot 2024-04-08 200021](https://github.com/m94madei/securitybox/assets/115645287/de34bf77-2ba8-46cb-976d-429977f4d6b1)
