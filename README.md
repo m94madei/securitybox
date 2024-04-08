@@ -2,11 +2,12 @@
 Simple program to create a password
 
 
-* [General info])(#general-info)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
 * [Application view](#application-view)
+
   
 ## General info
 <details>
