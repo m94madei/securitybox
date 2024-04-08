@@ -2,15 +2,20 @@
 Simple program to create a password
 
 Genereal Info
+
 Prosty program konsolowy stworzony w celach edukacyjnych na zajęcia z programowania obiektowego. Ma kilka funkcjonalnosci w tym tworzenie hasla o roznym stopniu skomplikowania, plus haslo losowo tworzone przez program. Mozna stworzyc konto i przypisac do niego login, haslo nastepnie przeslac je do pliku.
 
 Technolgies
+
 Aplikacja zostala napisana w C++ i uzywa standardowych bibliotek takich jak <iosteam>, <cstdlib>, <vector>, <ctime>. Dodatkowo ma kilka stworzonych przez mnie modułów takich jak Menu, Account, Password i funkcje pomocnicze.
 
 Setup
+
 Aby uruchomić program należy posiadać kompilator C++, który wspiera C++11 lub wyższy standard. 
 
+
 More detailed information about modules
+
 Menu - klasa stworzona po to, aby poprawic wizualny odbior programu, ma funkcje wyswietlajace rozne etapy poruszania sie po programie
 Account - klasa do tworzenia konta i przypisywania mu roznych wartosci, posiada funkcje do tworzenia konta wraz z uzyciem menu
 Password - klasa zawierajaca funkcje do tworzenia hasel
