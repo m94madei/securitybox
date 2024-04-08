@@ -1,0 +1,6 @@
+﻿  Account.cpp
+C:\Users\m94ma\Desktop\c++\SB\securitubox\securitubox\Account.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  securitubox.cpp
+C:\Users\m94ma\Desktop\c++\SB\securitubox\securitubox\securitubox.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  securitubox.vcxproj -> C:\Users\m94ma\Desktop\c++\SB\securitubox\x64\Debug\securitubox.exe
